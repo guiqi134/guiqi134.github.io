@@ -1,24 +1,20 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>PhD Student, Graphics Track @ <a href='https://graphics.cs.utah.edu/'>University of Utah, School of Computing</a></b>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: myself.jpg
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey everyone, thanks for checking my site!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm now a PhD student in the School of Computing at the University of Utah. I completed my Master study (Spring 2022) also at the University of Utah, advised by Dr. [Cem Yuksel](http://www.cemyuksel.com/). My research focus is real-time rendering and physically-based rendering, but I'm also interested in other fields like simulation, differential geometry and neural network stuff.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time, I enjoy playing console games ([Remedy's Control](https://www.remedygames.com/games/control/) is my favorite game in recent years), listening to eletronic music, watching films and cooking. I'm also a big fan of japanese animation.  
