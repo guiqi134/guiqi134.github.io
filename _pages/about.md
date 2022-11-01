@@ -15,6 +15,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hey, thanks for checking my site!
 
-My name is Song Zhang (张嵩 in Chinese). I'm now a first year PhD student in the School of Computing at the University of Utah. I completed my Master study (Spring 2022) also at the University of Utah, advised by Dr. [Cem Yuksel](http://www.cemyuksel.com/). My research focus is real-time rendering and physically-based rendering, but I'm also interested in other fields like simulation, differential geometry and neural network stuff.
+My name is Song Zhang (张嵩 in Chinese). I'm now a first year PhD student in the School of Computing at the University of Utah. I completed my Master study (Spring 2022) also at the University of Utah, advised by Dr. [Cem Yuksel](http://www.cemyuksel.com/). I got my Bachelor's degree from New York Institute of Technology (NYIT) and Nanjing University of Posts and Telecommunications (NJUPT). My current research focus is real-time rendering and physically-based rendering, but I'm also interested in simulation. 
 
-In my spare time, I enjoy playing console games ([Remedy's Control](https://www.remedygames.com/games/control/) is my favorite game in recent years), listening to eletronic music, watching films and cooking. I'm also a big fan of japanese animation.  
+In my spare time, I enjoy playing console games ([Remedy's Control](https://www.remedygames.com/games/control/) is my favorite game in recent years), listening to eletronic music, watching films and cooking. I'm also a big fan of japanese animation!  
