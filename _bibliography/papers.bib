@@ -197,17 +197,10 @@
 
 %Entries
 
-% @book{einstein1956investigations,
-%   bibtex_show={true},
-%   title={Investigations on the Theory of the Brownian Movement},
-%   author={Einstein, Albert},
-%   year={1956},
-%   publisher={Courier Corporation,}
-% }
-
 @article{10.1145/3658210,
-author = {Zhang, Song and Lin, Daqi and Kettunen, Markus and Yuksel, Cem and Wyman, Chris},
+author = {Zhang*, Song and Lin*, Daqi and Kettunen, Markus and Yuksel, Cem and Wyman, Chris},
 title = {Area ReSTIR: Resampling for Real-Time Defocus and Antialiasing},
+journal = {ACM Transactions on Graphics (Proceedings of SIGGRAPH 2024)},
 year = {2024},
 issue_date = {July 2024},
 publisher = {Association for Computing Machinery},
@@ -218,9 +211,11 @@ issn = {0730-0301},
 url = {https://doi.org/10.1145/3658210},
 doi = {10.1145/3658210},
 abstract = {Recent advancements in spatiotemporal reservoir resampling (ReSTIR) leverage sample reuse from neighbors to efficiently evaluate the path integral. Like rasterization, ReSTIR methods implicitly assume a pinhole camera and evaluate the light arriving at a pixel through a single predetermined subpixel location at a time (e.g., the pixel center). This prevents efficient path reuse in and near pixels with high-frequency details.We introduce Area ReSTIR, extending ReSTIR reservoirs to also integrate each pixel's 4D ray space, including 2D areas on the film and lens. We design novel subpixel-tracking temporal reuse and shift mappings that maximize resampling quality in such regions. This robustifies ReSTIR against high-frequency content, letting us importance sample subpixel and lens coordinates and efficiently render antialiasing and depth of field.},
-journal = {ACM Trans. Graph.},
-month = jul,
 articleno = {98},
 numpages = {13},
-keywords = {real-time ray tracing, resampled importance sampling, ReSTIR, depth-of-field, antialiasing}
+keywords = {real-time ray tracing, resampled importance sampling, ReSTIR, depth-of-field, antialiasing},
+website = {https://graphics.cs.utah.edu/research/projects/area-restir/},
+preview = {area-restir.jpg},
+pdf = {AreaReSTIR-SIGGRAPH2024.pdf},
+code = {https://github.com/guiqi134/Area-ReSTIR}
 }
