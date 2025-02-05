@@ -76,6 +76,13 @@
       "releaseDate": "2024-07",
       "url": "https://dl.acm.org/doi/abs/10.1145/3658210",
       "summary": "Extending ReSTIR reservoirs to integrate each pixel's 4D ray space. Largely improving the sampling quaility for antialiasing and depth of field."
+    },
+    {
+      "name": "Many-Light Rendering Using ReSTIR-Sampled Shadow Maps",
+      "publisher": "Accepted to EG 2025",
+      "releaseDate": "2025-05",
+      "url": "",
+      "summary": "We present a practical method targeting dynamic shadow maps for many light sources in real-time rendering."
     }
   ]
 }

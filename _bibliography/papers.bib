@@ -219,3 +219,14 @@ preview = {area-restir.jpg},
 pdf = {AreaReSTIR-SIGGRAPH2024.pdf},
 code = {https://github.com/guiqi134/Area-ReSTIR}
 }
+
+@inproceedings{zhang2025shadow,
+  author = {Song Zhang and Daqi Lin and Chris Wyman and Cem Yuksel},
+  title = {Many-Light Rendering Using ReSTIR-Sampled Shadow Maps (to appear in Eurographics 2025)},
+  journal = {Computer Graphics Forum},
+  year = {2025},
+  publisher = {Computer Graphics Forum},
+  abstract = {We present a practical method targeting dynamic shadow maps for many light sources in real-time rendering. We compute full-resolution shadow maps for a subset of lights, which we select with spatiotemporal reservoir resampling (ReSTIR). Our selection strategy automatically regenerates shadow maps for lights with the strongest contributions to pixels in the current camera view. The remaining lights are handled using imperfect shadow maps, which provide low-resolution shadow approximation.  We significantly reduce the computation and storage compared to using all full-resolution shadow maps and substantially improve shadow quality compared to handling all lights with imperfect shadow maps.},
+  keywords = {real-time ray tracing, shadow maps, resampled importance sampling, ReSTIR},
+  preview = {restir-shadow-maps.png},
+}
